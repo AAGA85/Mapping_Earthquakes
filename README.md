@@ -10,7 +10,7 @@ I have gotten a new position, Data Visualization for the Disaster Reporting Netw
  - Tectonic plates illustration to show the relationship between the location and frequency of seismic activity 
 
 Bonus:
-- Additional map style designed to provide geographic context while highlighting the data on our analytics dashboard, data visualization, or data overlay.
+- Additional map style (Dark) designed to provide geographic context while highlighting the data on our  data visualization and  data overlay.
 
 
 Deliverable 1 and 2: The map can show the earthquake data in relation to the tectonic plates’ location on the earth.
